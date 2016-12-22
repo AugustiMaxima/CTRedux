@@ -1,2 +1,2 @@
 # CTRedux
-A revised, optimized and scalable version from the original c++ terminal. Uses binary search tree and binary search of presorted array of function pointers to improve performance in an larger scale and full fledged operating system
+A demonstration of how binary search, function pointers and binary search tree can be applied for really impressive speed gains in larger, scalable operating systems.
